@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 # Path to the text file containing the .jsonl file path
-file_path_text_file = r'C:\Users\Brandon\Documents\Repositorys\MPTJB\MPTJB\AI\jsonl_file_path.txt'
+file_path_text_file = r'C:\Users\bthur\OneDrive - University of Gothenburg\Dokument\MPTBJ REPO\MPTJB\AI\jsonl_file_path.txt'
 
 # Read the .jsonl file path from the text file
 with open(file_path_text_file, 'r', encoding='utf-8') as f:
